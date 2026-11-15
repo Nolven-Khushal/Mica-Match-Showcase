@@ -12,6 +12,18 @@
 
 **[Watch the tour (9 min, 1280x720)](video/Mica-Match-tour.mp4)**: the real app running end to end, chapter by chapter, from the brief to the numbers.
 
+## What's new in 5.0 (November 2026)
+
+[![Watch what's new in 5.0](screenshots/whats-new-5.0.jpg)](video/Mica-Match-5.0-whats-new.mp4)
+
+**[Watch the film (about 2 minutes, 1080p)](video/Mica-Match-5.0-whats-new.mp4)**: the app running on the demo catalogue.
+
+- **A native Android app.** The library, catalogue search and shade pages were rebuilt natively; matching still works offline.
+- **MicaNet.** Our own shade-matching model, trained on our shade library, running on the phone.
+- **Visualizer.** Choose a room, try any shade on any surface, slide to compare before and after.
+- **3D Rooms.** Walk through furnished rooms and change every laminate piece; turn the phone for full-screen play.
+- **Hindi.** Switch between English and Hindi in Settings.
+
 ## Read it
 
 - **[The journey](docs/JOURNEY.md):** the brief, the decisions (and the options rejected), the hard problems, the mistakes, and where it stands.
@@ -77,6 +89,15 @@ flowchart LR
 | Catalogue | 2,200+ shades across 23 catalogues in production (the demo shown here has 144 synthetic shades) |
 | Status | Store closed test in progress |
 | Source | Private |
+
+## Picture credits
+
+The room photos shown in the Visualizer scenes are from Wikimedia Commons: 
+[Lobby lounge of Amantaka Suite](https://commons.wikimedia.org/wiki/File:Lobby_lounge_of_Amantaka_Suite_Amantaka_luxury_Resort_%26_Hotel_Luang_Prabang_Laos.jpg) (CC BY-SA 4.0), 
+[Canopy bed and wardrobes in Khan Pool Suite](https://commons.wikimedia.org/wiki/File:Canopy_bed_and_wardrobes_in_Khan_Pool_Suite_at_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg) (CC BY-SA 4.0), 
+[Brown wood kitchen in attic](https://commons.wikimedia.org/wiki/File:Brown_wood_kitchen_in_attic.jpg) (CC BY-SA 3.0), and 
+[White-walled bedroom with a four-poster bed](https://commons.wikimedia.org/wiki/File:USVI_IMG_5175_-_White-walled_bedroom_with_a_four-poster_bed_colorful_rug_and_modern_furniture_in_bright_airy_setting.jpg) (public domain). 
+The 3D Rooms use free CC0 textures and models. All shades in the film are the synthetic demo catalogue.
 
 ---
 
